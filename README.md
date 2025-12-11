@@ -3,5 +3,5 @@ A collection of projects and code recipes showcasing experiments, patterns, and 
 
 ## Available Recipes
 
-- **astro-cloudflare-env-context**
-Astro SSR on Cloudflare Pages: a simple way to pass env deep into the project.
+- **astro-cloudflare-env-context**: Custom context wrapper for accessing Cloudflare runtime environment variables in nested functions with Astro SSR.
+- **astro-cloudflare-env-middleware**: Middleware with AsyncLocalStorage to access Cloudflare runtime environment variables throughout Astro SSR code.

@@ -11,8 +11,8 @@ If you plan to use this setup in your own project, the environment variables are
 ## Getting Started
 ```bash
 # Clone this project
-npx degit mrtoxas/recipes/astro-cloudflare-env-context astro-cloudflare-env-context
-cd astro-cloudflare-env-context
+npx degit mrtoxas/recipes/astro-cloudflare-env-middleware astro-cloudflare-env-middleware
+cd astro-cloudflare-env-middleware
 
 # Install dependencies
 pnpm install

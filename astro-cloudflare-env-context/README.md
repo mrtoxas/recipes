@@ -28,3 +28,6 @@ After starting the dev server, open `/api/test` in your browser. The variable wi
 
 ## Deployment notes
 Make sure your environment variables are set in Cloudflare Pages (Dashboard → Variables and Secrets) or via `pnpm wrangler pages secret put TEST_VARIABLE`.
+
+## 📖 Learn More
+Read the full article on [dev.to](https://dev.to/mrtoxas/access-cloudflare-runtime-env-in-nested-functions-with-astro-ssr-3mn5)

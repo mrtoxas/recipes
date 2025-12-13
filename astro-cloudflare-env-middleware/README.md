@@ -1,4 +1,4 @@
-# Astro SSR on Cloudflare Pages: env access via custom AsyncLocalStorage-based context
+# Astro SSR on Cloudflare Pages: env access via middleware
 This repository demonstrates a clean approach to providing request-scoped environment variables in Astro SSR on Cloudflare Pages. It uses a small wrapper around API handlers together with AsyncLocalStorage to create a per-request context. Any part of the server code can then read these variables without prop-drilling or manual forwarding.
 
 ⚠️ The repo contains a minimal implementation and a concise usage example. For production use, consider adding:

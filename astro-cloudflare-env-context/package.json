@@ -1,5 +1,7 @@
 {
 	"name": "astro-cloudflare-env-context",
+	"description": "Astro on Cloudflare example showing how to access runtime environment variables via context using AsyncLocalStorage",
+	"author": "Anton Bojko (https://github.com/mrtoxas)",
 	"type": "module",
 	"version": "0.0.1",
 	"scripts": {
